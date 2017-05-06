@@ -1,0 +1,75 @@
+[
+    {
+        "descr": "Beijing University of Chemical Technology 100029 Heping Street Beijing, People's Republic of", 
+        "country": "CN", 
+        "changed": "hostmaster@apnic.net 20020803 hm-changed@apnic.net 20041221", 
+        "source": "APNIC", 
+        "tech-c": "HZ119-AP", 
+        "remarks": "This aut-num object created as part of the ER-Transfer from ARIN", 
+        "mnt-by": "APNIC-HM", 
+        "admin-c": "HZ119-AP", 
+        "as-name": "ERX-BUCT-NET", 
+        "aut-num": "AS3717"
+    }, 
+    {
+        "status": "ALLOCATED PORTABLE", 
+        "descr": "Beijing University of Chemical Technology P. O. Box 70 100029 Heping Street Beijing", 
+        "mnt-irt": "IRT-CERNET-AP", 
+        "country": "CN", 
+        "changed": "hm-changed@net.edu.cn 19950217 hm-changed@apnic.net 20031111 hm-changed@apnic.net 20041214", 
+        "source": "APNIC", 
+        "tech-c": "YW213-AP CER-AP", 
+        "inetnum": "202.4.128.0 - 202.4.159.255", 
+        "netname": "BUCT-CN", 
+        "mnt-by": "APNIC-HM", 
+        "admin-c": "XD36-AP"
+    }, 
+    {
+        "status": "ASSIGNED NON-PORTABLE", 
+        "descr": "~{11>);/9$4sQ'117=Q'T:~} North College of Beijing University of Chemical Technology Sanhe, Hebei 065201, China", 
+        "country": "CN", 
+        "changed": "hostmaster@net.edu.cn 20051114", 
+        "source": "APNIC", 
+        "tech-c": "HZ506-AP CER-AP", 
+        "inetnum": "219.226.160.0 - 219.226.175.255", 
+        "netname": "NCBUCT-CN", 
+        "remarks": "conn-id BJ002034 origin AS4538", 
+        "mnt-by": "MAINT-CERNET-AP", 
+        "admin-c": "HZ506-AP"
+    }, 
+    {
+        "status": "ASSIGNED NON-PORTABLE", 
+        "descr": "~{11>);/9$4sQ'117=Q'T:~} North College of Beijing University of Chemical Technology Sanhe, Hebei 065201, China", 
+        "country": "CN", 
+        "changed": "hostmaster@net.edu.cn 20051114", 
+        "source": "APNIC", 
+        "tech-c": "HZ506-AP CER-AP", 
+        "inetnum": "219.226.176.0 - 219.226.183.255", 
+        "netname": "NCBUCT-CN", 
+        "remarks": "conn-id BJ002034 origin AS4538", 
+        "mnt-by": "MAINT-CERNET-AP", 
+        "admin-c": "HZ506-AP"
+    }, 
+    {
+        "changed": "hostmaster@apnic.net 20020802", 
+        "descr": "Beijing University of Chemical Technology 100029 Heping Street Beijing, People's Republic of", 
+        "referral-by": "MAINT-NULL", 
+        "upd-to": "noemail@supplied.unknown", 
+        "mntner": "MAINT-CN-BEIJING-UNI", 
+        "source": "APNIC", 
+        "remarks": "mntner object created as part of the ER-Transfer from ARIN", 
+        "mnt-by": "MAINT-CN-BEIJING-UNI", 
+        "admin-c": "HZ119-AP"
+    }, 
+    {
+        "phone": "+86-316-3380055", 
+        "country": "CN", 
+        "changed": "hostmaster@net.edu.cn 20051114 hm-changed@apnic.net 20111122", 
+        "nic-hdl": "HZ506-AP", 
+        "mnt-by": "MAINT-CERNET-AP", 
+        "person": "Haicun Zhao", 
+        "source": "APNIC", 
+        "address": "Network Center North College of Beijing University of Chemical Technology Sanhe, Hebei 065201, China", 
+        "e-mail": "zhc188@163.com"
+    }
+]
